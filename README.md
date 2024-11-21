@@ -1,2 +1,2 @@
-# SNIRT
-SOCIAL NETWORKS IN ITEM RESPONSE THEORY (SNIRT)
+# LSRRM
+Item Response Models for Rating Relational Data
