@@ -1,12 +1,12 @@
-# Latent Space Item Response Model for Relational Data
+# Latent Space Rating Relation Model (LSRRM)
 
-This repository provides the source code for the latent space item response model for relational data developed in:
+This repository provides the source code for the Latent Space Rating Relation Model (LSRRM) developed in:
 
 > Leng, C. H., Böckenholt, U., Lee, H. W., & Yao, G. (2025). Item response models for rating relational data. *Psychometrika, 90*(3), 1067–1096. https://doi.org/10.1017/psy.2025.10016
 
 ## Overview
 
-The code in this repository implements the latent space item response model for analyzing relational rating data proposed by Leng et al. (2025). The model jointly represents individual response tendencies and latent relational structures, allowing relational responses to be analyzed within an item response modeling framework.
+The code in this repository implements the LSRRM for analyzing relational rating data proposed by Leng et al. (2025). The model jointly represents individual response tendencies and latent relational structures, allowing relational responses to be analyzed within an item response modeling framework.
 
 ## Getting Started
 
